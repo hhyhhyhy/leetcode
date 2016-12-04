@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\POJ">
+      <UniqueIdentifier>{aacdb27f-92a6-4626-b778-8350aa3d8f17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\hiho">
+      <UniqueIdentifier>{256c72cd-ece2-4f6b-8727-c3a25b5de135}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\DP">
+      <UniqueIdentifier>{76f1e4d7-0659-43b8-b91a-c21355f90b3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\分治">
+      <UniqueIdentifier>{6c2dbb95-7526-4a2c-bc55-ae1444cbdb19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\贪心">
+      <UniqueIdentifier>{f9bafce9-8697-4281-9efb-59c451f41409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\回溯">
+      <UniqueIdentifier>{68db5bf4-5282-41a6-9d2a-cf027cfa8ffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\二分与数列">
+      <UniqueIdentifier>{fd8d8495-d055-4afb-afa1-ee98bebca874}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\链表">
+      <UniqueIdentifier>{855a7ec9-1520-4ffc-8894-bc0940400e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\字符串处理">
+      <UniqueIdentifier>{3f7a68c7-0904-46a1-911f-51d545c13f7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\搜索">
+      <UniqueIdentifier>{f10215bb-f73b-4af8-a74b-1148a42f818c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\模拟">
+      <UniqueIdentifier>{66affb9e-ad25-4e9d-b086-334ceb6161f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\数学">
+      <UniqueIdentifier>{3b9f22cb-9e9d-4749-b2c6-d67f1c6da4c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\基础题">
+      <UniqueIdentifier>{8a7bf78e-0a93-421f-a4e6-5b3797cb9006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\图算法">
+      <UniqueIdentifier>{6bf6603a-a01e-481d-b69d-6c9f4dff865a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="poj2187凸包旋转卡壳.cpp">
+      <Filter>源文件\POJ</Filter>
+    </ClCompile>
+    <ClCompile Include="hiho1114.cpp">
+      <Filter>源文件\hiho</Filter>
+    </ClCompile>
+    <ClCompile Include="容斥原理.cpp">
+      <Filter>源文件\POJ</Filter>
+    </ClCompile>
+    <ClCompile Include="hiho1096动态规划.cpp">
+      <Filter>源文件\hiho</Filter>
+    </ClCompile>
+    <ClCompile Include="莫比乌斯函数.cpp">
+      <Filter>源文件\POJ</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串处理栈.cpp">
+      <Filter>源文件\hiho</Filter>
+    </ClCompile>
+    <ClCompile Include="leet32最大合法匹配子串.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode10递归处理字符.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet416_01背包变种.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="pojPolya计数.cpp">
+      <Filter>源文件\POJ</Filter>
+    </ClCompile>
+    <ClCompile Include="leet53最大部分和.cpp">
+      <Filter>源文件\分治</Filter>
+    </ClCompile>
+    <ClCompile Include="leet169主元.cpp">
+      <Filter>源文件\分治</Filter>
+    </ClCompile>
+    <ClCompile Include="leet215求第K大元.cpp">
+      <Filter>源文件\分治</Filter>
+    </ClCompile>
+    <ClCompile Include="leet4两个有序数组的中间元.cpp">
+      <Filter>源文件\分治</Filter>
+    </ClCompile>
+    <ClCompile Include="NIM取子问题.cpp">
+      <Filter>源文件\POJ</Filter>
+    </ClCompile>
+    <ClCompile Include="辗转相除法游戏.cpp">
+      <Filter>源文件\POJ</Filter>
+    </ClCompile>
+    <ClCompile Include="leet413.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet435.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="leet406.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode17.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet36数独合理.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet37数独填充.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet31排列组合.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet27删除.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet26去重cpp.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet15  3数和0.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode18 4sum.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet33 .cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet23合成K个有序数组.cpp">
+      <Filter>源文件\分治</Filter>
+    </ClCompile>
+    <ClCompile Include="leet24交换链表相邻元素.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="leet25相邻k个数改变.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode2链表对应相加.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode5回文串.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leet30字串集合.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode14最长公共前缀.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leet19.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcoder11.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode303.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode20.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leet28.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode6循环对角线字符串.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leet22.cpp">
+      <Filter>源文件\搜索</Filter>
+    </ClCompile>
+    <ClCompile Include="leet29模拟除法.cpp">
+      <Filter>源文件\模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode9回文数字.cpp">
+      <Filter>源文件\基础题</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode7.cpp">
+      <Filter>源文件\基础题</Filter>
+    </ClCompile>
+    <ClCompile Include="leet34.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet35.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet39.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet40.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet38.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leet410.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet62.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet63.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet64.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet70.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet72字符串改变.cpp">
+      <Filter>源文件\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="leet41元素交换.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet42双指针维护.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode16接近目标数的三个数和双指针.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet43字符串乘法.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
+    <ClCompile Include="leet45距离惰性贪心.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="leet46排列.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet47排列2.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet1.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

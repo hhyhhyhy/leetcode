@@ -1,0 +1,4 @@
+﻿  leet1.cpp
+d:\vs2015project\leetcoder\leetcoder\leet1.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs2015project\leetcoder\leetcoder\leet1.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  leetcoder.vcxproj -> D:\vs2015project\leetcoder\Debug\leetcoder.exe
