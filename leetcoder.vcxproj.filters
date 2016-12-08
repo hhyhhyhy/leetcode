@@ -261,5 +261,11 @@
     <ClCompile Include="leet1.cpp">
       <Filter>源文件\二分与数列</Filter>
     </ClCompile>
+    <ClCompile Include="leet48.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet49hash相关.cpp">
+      <Filter>源文件\字符串处理</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

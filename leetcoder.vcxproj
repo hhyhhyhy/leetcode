@@ -186,6 +186,8 @@
     <ClCompile Include="leet45距离惰性贪心.cpp" />
     <ClCompile Include="leet46排列.cpp" />
     <ClCompile Include="leet47排列2.cpp" />
+    <ClCompile Include="leet48.cpp" />
+    <ClCompile Include="leet49hash相关.cpp" />
     <ClCompile Include="leet4两个有序数组的中间元.cpp" />
     <ClCompile Include="leet53最大部分和.cpp" />
     <ClCompile Include="leet62.cpp" />
