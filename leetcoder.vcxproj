@@ -189,6 +189,7 @@
     <ClCompile Include="leet48.cpp" />
     <ClCompile Include="leet49hash相关.cpp" />
     <ClCompile Include="leet4两个有序数组的中间元.cpp" />
+    <ClCompile Include="leet50.cpp" />
     <ClCompile Include="leet53最大部分和.cpp" />
     <ClCompile Include="leet62.cpp" />
     <ClCompile Include="leet63.cpp" />

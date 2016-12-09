@@ -267,5 +267,8 @@
     <ClCompile Include="leet49hash相关.cpp">
       <Filter>源文件\字符串处理</Filter>
     </ClCompile>
+    <ClCompile Include="leet50.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
