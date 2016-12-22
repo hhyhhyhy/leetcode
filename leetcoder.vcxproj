@@ -150,6 +150,10 @@
     <ClCompile Include="2.cpp" />
     <ClCompile Include="3.cpp" />
     <ClCompile Include="4.cpp" />
+    <ClCompile Include="cont12_1.cpp" />
+    <ClCompile Include="coun12_4.cpp" />
+    <ClCompile Include="cout12_2.cpp" />
+    <ClCompile Include="cout12_3dp.cpp" />
     <ClCompile Include="hiho1096动态规划.cpp" />
     <ClCompile Include="hiho1114.cpp" />
     <ClCompile Include="leet1.cpp" />
@@ -190,7 +194,12 @@
     <ClCompile Include="leet49hash相关.cpp" />
     <ClCompile Include="leet4两个有序数组的中间元.cpp" />
     <ClCompile Include="leet50.cpp" />
+    <ClCompile Include="leet51N皇后.cpp" />
+    <ClCompile Include="leet52N皇后2.cpp" />
     <ClCompile Include="leet53最大部分和.cpp" />
+    <ClCompile Include="leet54.cpp" />
+    <ClCompile Include="leet55距离覆盖.cpp" />
+    <ClCompile Include="leet56区间合并贪心.cpp" />
     <ClCompile Include="leet62.cpp" />
     <ClCompile Include="leet63.cpp" />
     <ClCompile Include="leet64.cpp" />
@@ -211,6 +220,7 @@
     <ClCompile Include="leetcoder11.cpp" />
     <ClCompile Include="leet23合成K个有序数组.cpp" />
     <ClCompile Include="NIM取子问题.cpp" />
+    <ClCompile Include="poj2186强连通分量.cpp" />
     <ClCompile Include="poj2187凸包旋转卡壳.cpp" />
     <ClCompile Include="pojPolya计数.cpp" />
     <ClCompile Include="字符串处理栈.cpp" />

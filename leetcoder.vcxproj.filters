@@ -55,6 +55,9 @@
     <Filter Include="源文件\图算法">
       <UniqueIdentifier>{6bf6603a-a01e-481d-b69d-6c9f4dff865a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\contest">
+      <UniqueIdentifier>{84caf0d2-69b1-4ac5-bb90-41e7ea08a27e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -268,6 +271,36 @@
       <Filter>源文件\字符串处理</Filter>
     </ClCompile>
     <ClCompile Include="leet50.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet51N皇后.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="cont12_1.cpp">
+      <Filter>源文件\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="cout12_3dp.cpp">
+      <Filter>源文件\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="cout12_2.cpp">
+      <Filter>源文件\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="coun12_4.cpp">
+      <Filter>源文件\contest</Filter>
+    </ClCompile>
+    <ClCompile Include="leet52N皇后2.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="leet54.cpp">
+      <Filter>源文件\二分与数列</Filter>
+    </ClCompile>
+    <ClCompile Include="leet55距离覆盖.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="poj2186强连通分量.cpp">
+      <Filter>源文件\图算法</Filter>
+    </ClCompile>
+    <ClCompile Include="leet56区间合并贪心.cpp">
       <Filter>源文件\二分与数列</Filter>
     </ClCompile>
   </ItemGroup>
